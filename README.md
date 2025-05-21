@@ -57,7 +57,7 @@ Session State Management – using st.session_state for chat sessions
 
 ## ✍️ Author
 Akshata More 
-🔗 [LinkedIn](www.linkedin.com/in/akshata-more-aaa2811b6)
+🔗 [LinkedIn](www.linkedin.com/in/akshata-p-more)
 
 ## ⭐️ Support
 If you like this project, please give it a ⭐ on GitHub!
