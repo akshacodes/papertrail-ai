@@ -174,7 +174,10 @@ if session["combined_text"]:
                     f"Question:\n{prompt}"
                 )
                 try:
-                    model = genai.GenerativeModel("models/gemini-1.5-flash-latest")
+                    # --- THIS IS THE UPDATED LINE ---
+                    model = genai.GenerativeModel("models/gemini-1.5-pro-latest")
+                    # ------------------------------
+                    
                     res = model.generate_content(full_prompt)
                     if res.parts:
                         answer = res.text
