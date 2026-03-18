@@ -29,7 +29,7 @@ Ask your PDFs and images anything – an interactive Streamlit app powered by Go
    [google]
    api_key = "your_google_gemini_api_key"
 
- ⚠️ Important: Never commit this file. It is ignored via .gitignore.
+ 
  
    
 4. **Launch the App**
